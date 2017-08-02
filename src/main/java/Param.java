@@ -7,8 +7,8 @@ import java.util.List;
 public class Param {
     static final String EMAIL_HOST = "smtp.gmail.com ";
     static final String EMAIL_PORT = "465";//"587";  //usually this is 587, but not always
-    static final String EMAIL_FROM = "jack.giannini@gmail.com";
-    static final String EMAIL_PASSWORD = "dontmisspellmnemonic";
+    static final String EMAIL_FROM = "";
+    static final String EMAIL_PASSWORD = "";
 
     //opentable link
     static final String URL = "https://www.opentable.com/ribalta-atl?covers=2&dateTime=2017-08-01%2019%3A00";
