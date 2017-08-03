@@ -17,7 +17,7 @@ class ConnectionManager {
     ConnectionManager(ExecutorService executorService){
         this.executorService = executorService;
         timeChecker = new TimeChecker();
-        EMAIL_ADDRESSES.add("dnaylor118@gmail.com");
+        EMAIL_ADDRESSES.add("");
     }
 
     void runLoop(){
